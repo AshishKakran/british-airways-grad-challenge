@@ -37,3 +37,8 @@ The dataset for this project is a customer booking data provided in the Customer
 - Customer Booking.csv
 ## Evaluation Metric
 The primary evaluation metric for this project will be the accuracy of the predictive model. This will be measured through cross-validation and the calculation of appropriate evaluation metrics such as precision, recall, and F1 score.
+
+## Solution
+
+1. [BA customer reviews analysis](BA_reviews_analysis.ipynb)
+2. [BA customer booking prediction](booking_prediction.ipynb)
